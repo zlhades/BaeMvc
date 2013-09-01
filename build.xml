@@ -1,6 +1,5 @@
 <project name="demo" default="all" basedir=".">
 
-    <!-- ===================== Property Definitions =========================== -->
 
     <!-- ===================== Need you config youself ===================== -->
     <!--<property name="tomcat.home" value="D:\dev\jboss-as-web-7.0.2.Final"/>-->
