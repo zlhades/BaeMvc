@@ -15,7 +15,6 @@ public class ActionConfig {
     private Map<String, Method> methodMap = new HashMap<String, Method>();
     private Map<String, Method> getMethod = new HashMap<String, Method>();
 
-
     public ActionConfig() {
 
     }
