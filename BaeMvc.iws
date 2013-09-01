@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYSIS_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list readonly="true" id="85c52600-7a0e-4288-a921-1c3560d99434" name="Default" comment="" />
+    <list default="true" id="9625cf12-852e-4ec8-8f6d-f65a285938a9" name="New changelist" comment="Done" />
+    <ignored path="yijushequ.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="svn.txt" />
+    <ignored path="spy.log" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/dao/OrderDao.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339937443698" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/dao/impl/OrderDaoImpl.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339937400290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/domain/Order.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339937218932" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/action/user/ConsumptionAction.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339814497762" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/action/course/ConsumptionAction.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339419728044" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/yijushequ/dao/SeriesConsumptionDao.java" changelist="24fbc730-a43b-4e73-a9b6-0ad22525bfd6" time="1339419689639" ignored="false" />
+    <file path="/Dummy.txt" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1378020233288" ignored="false" />
+    <file path="/a.dummy" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982482839" ignored="false" />
+    <file path="/map.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1359164289999" ignored="false" />
+    <file path="/global.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1359111725791" ignored="false" />
+    <file path="/log4j.properties" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369574356634" ignored="false" />
+    <file path="/fragment.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370004076248" ignored="false" />
+    <file path="/map.jsp" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1359171502479" ignored="false" />
+    <file path="/header.jsp" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1359169537807" ignored="false" />
+    <file path="/create.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366429389827" ignored="false" />
+    <file path="/index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367996674108" ignored="false" />
+    <file path="/list.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366523384373" ignored="false" />
+    <file path="/pagination.jsp" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1359276429258" ignored="false" />
+    <file path="/ProductAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366868394100" ignored="false" />
+    <file path="/layoutOfBody.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366345825793" ignored="false" />
+    <file path="/ProductDetail.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366268276582" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/SoKeType.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361966196883" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/BaseJunitTest.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361966205139" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/domain/AbstractUrlFetchPersistence.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361966211915" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/SoKeRegion.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361966234566" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/SoKeSchoolHeader.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361971091596" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/SoKeSchoolEach.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361967383472" ignored="false" />
+    <file path="/SoKeSchoolEach.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361967360916" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/domain/StageSchoolDist.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361968189169" ignored="false" />
+    <file path="/SoKeSchoolHeader.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361969461745" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/domain/StageSchoolInfo.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361969029289" ignored="false" />
+    <file path="/StageSchoolInfo.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1361969007870" ignored="false" />
+    <file path="/Vid.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1362983150386" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/pom.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1362911484992" ignored="false" />
+    <file path="/GetVidJob.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363000879875" ignored="false" />
+    <file path="/applicationContext.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367997491586" ignored="false" />
+    <file path="/VidAction.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363004437402" ignored="false" />
+    <file path="/tiles.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365068217630" ignored="false" />
+    <file path="/vid.jsp" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363065963186" ignored="false" />
+    <file path="/123.htm" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1364006881502" ignored="false" />
+    <file path="$PROJECT_DIR$/../MailPortal/project.properties" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363002048159" ignored="false" />
+    <file path="$PROJECT_DIR$/../MailPortal/gen/com/dell/R.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1362993353155" ignored="false" />
+    <file path="$PROJECT_DIR$/../MailPortal/src/com/dell/DellEmailActivity.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363002083612" ignored="false" />
+    <file path="/DellEmailActivity.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1362988718441" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/sk/BaseJunitTest.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363006269716" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/project.properties" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363094141215" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/res/values/strings.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/AndroidManifest.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/res/layout/main.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/src/org/apache/cordova/example/cordovaExample.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/res/xml/config.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/src/com/example/example/MyActivity.java" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec/lib/jasmine-1.2.0/jasmine.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec/lib/jasmine-1.2.0/jasmine.css" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/js/index.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec/helper.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec/index.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/css/index.css" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/index.html" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/spec.html" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/main.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/master.css" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465186" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/build.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465548" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/assets/www/cordova-2.5.0.js" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091465548" ignored="false" />
+    <file path="$PROJECT_DIR$/../tmp/example/.idea/compiler.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363091475722" ignored="false" />
+    <file path="$PROJECT_DIR$/../andoridsp/bin/AndroidManifest.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363092552087" ignored="false" />
+    <file path="$PROJECT_DIR$/../andoridsp/AndroidManifest.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363092552087" ignored="false" />
+    <file path="$PROJECT_DIR$/../andoridsp/project.properties" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363094141215" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/.idea/workspace.xml" changelist="85c52600-7a0e-4288-a921-1c3560d99434" time="1363177764542" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/WebRoot.war/WEB-INF/config/applicationContext.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365066132813" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/urlfetch/sk/covert/SchoolConvert.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1363874842122" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/WebRoot.war/123.htm" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365065490063" ignored="false" />
+    <file path="/SchoolConvert.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1363874802237" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenJpa1/OpenJpa.iws" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1364026450402" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenJpa1/OpenJpa.ipr" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1364026450400" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenJpa1/src/com/test/convert/JPAConverter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1364026450402" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/schedule/GetVidJob.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365065732349" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/domain/Vid.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1364046736639" ignored="false" />
+    <file path="192.168.1.133/123.htm" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365065400218" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/WebRoot.war/WEB-INF/config/tiles.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365068221124" ignored="false" />
+    <file path="$PROJECT_DIR$/../gogowise/src/com/gogowise/action/vid/VidAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365066228502" ignored="false" />
+    <file path="/struts.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408735168" ignored="false" />
+    <file path="/OrdersAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365402591724" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/java/org/demo/rest/example/BookController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407562190" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/java/org/demo/rest/example/OrdersController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407562190" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/JJ/web/WEB-INF/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407470145" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/web/WEB-INF/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407526123" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/example/OrdersController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407549589" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/example/Order.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407549589" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/example/OrdersService.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407549589" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/example/BookController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407549589" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/java/org/demo/rest/example/Order.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407562190" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/java/org/demo/rest/example/OrdersService.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407562190" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/untitled/web/WEB-INF/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365407968102" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/orders-edit.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/struts.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824969" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="/book-index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408519110" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/book-index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408519770" ignored="false" />
+    <file path="/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370000443899" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/orders-index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/book-deleteConfirm.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/org/demo/rest/example/OrdersController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/orders-editNew.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/org/demo/rest/example/BookController.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/orders-deleteConfirm.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/content/orders-show.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/org/demo/rest/example/OrdersService.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824968" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/src/org/demo/rest/example/Order.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824969" ignored="false" />
+    <file path="D:/Temp/struts2-rest-showcase/WEB-INF/web/book-index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1365408824969" ignored="false" />
+    <file path="/SacnPackage.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366254717958" ignored="false" />
+    <file path="/InitialDB.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366255485701" ignored="false" />
+    <file path="/MyConfig.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366813277000" ignored="false" />
+    <file path="/ActionConfig.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367228513501" ignored="false" />
+    <file path="/LifecycleInit.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366377711011" ignored="false" />
+    <file path="/Constants.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366524851064" ignored="false" />
+    <file path="/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366871761539" ignored="false" />
+    <file path="/ActionFilter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367228907936" ignored="false" />
+    <file path="/BasicAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367229598817" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspdirectives2_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366282271858" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366282271858" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366282271858" ignored="false" />
+    <file path="/UserAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366292210168" ignored="false" />
+    <file path="/product-index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366345988468" ignored="false" />
+    <file path="/layoutOfFont.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366345844574" ignored="false" />
+    <file path="/chucuola.htm" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366445939290" ignored="false" />
+    <file path="$PROJECT_DIR$/WebRoot.war/js/qq-api/qc_loader.js" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366812782137" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/urlfetch/hotel/xml/hotel2.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366604397467" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/urlfetch/hotel/CovertHotel.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366622541205" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/domain/Hotel.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366604265004" ignored="false" />
+    <file path="/Hotel.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366604240838" ignored="false" />
+    <file path="/hotel2.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366595873805" ignored="false" />
+    <file path="/CovertHotel.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366622520423" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/domain/DateAdapter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366609682963" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/domain/package-info.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366610122680" ignored="false" />
+    <file path="/package-info.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366604690234" ignored="false" />
+    <file path="/DateAdapter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366609682092" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/src/com/gogowise/domain/CalendarAdapter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366607897572" ignored="false" />
+    <file path="/CalendarAdapter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366605136536" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/demo/dao/impl/ModelDaoImpl.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366812782138" ignored="false" />
+    <file path="$PROJECT_DIR$/WebRoot.war/WEB-INF/tld/tiles-jsp.tld" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366812782138" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/demo/dao/ModelDao.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366812782138" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/WEB-INF/web.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/build.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/jsp/layout/includeForLayOut.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/src/com/demo/action/BasicAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/js/qq-api/qc_loader.js" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/js/global.js" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/js/map.js" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/WEB-INF/config/xwork-conversion.properties" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/src/com/demo/action/product/ProductAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144177" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/first.html" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144178" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/WEB-INF/config/tiles.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144179" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/src/com/demo/utils/CalenderTag.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144179" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/src/com/demo/utils/MyActionConfigBuilder.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144179" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/jsp/layout/header.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144179" ignored="false" />
+    <file path="$PROJECT_DIR$/../StrutsMvc/WebRoot.war/WEB-INF/config/applicationContext.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366873144179" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema-instance.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xml.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-2_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xinclude.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-strict.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-frameset.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/catalog.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/html5/xhtml5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/FlexCompilerSchema.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.2.7.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.2.6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.1.5.3.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.1.5.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277812" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.1.5.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.7.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/httpinvoker/spring-integration-httpinvoker-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/mongodb/spring-integration-mongodb-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.4.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.3.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_2_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.3.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_1_4.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ip/spring-integration-ip-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ip/spring-integration-ip-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/connector_1_5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ip/spring-integration-ip-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/j2ee_1_4.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_3_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/feed/spring-integration-feed-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/persistence_2_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/feed/spring-integration-feed-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/feed/spring-integration-feed-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/spring.tld" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jmx/spring-integration-jmx-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jmx/spring-integration-jmx-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jmx/spring-integration-jmx-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/orm_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-facesconfig_1_2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-jsptaglibrary_2_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_4.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-common_3_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/orm_2_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277813" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_1_4.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_3_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/spring-form.tld" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/j2ee_web_services_client_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jspxml.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jspxml.tld" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_client_1_3.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/persistence.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_3_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_1_3.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-fragment_3_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_1_2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/connector_1_6.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-jsptaglibrary_2_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_client_1_2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xml/spring-integration-xml-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xml/spring-integration-xml-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xml/spring-integration-xml-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/mail/spring-integration-mail-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/mail/spring-integration-mail-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/mail/spring-integration-mail-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ws/spring-integration-ws-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ws/spring-integration-ws-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ws/spring-integration-ws-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/settings-1.0.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-web-bnd_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277814" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-ejb-jar-ext-pme_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/profiles-1.0.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-web-ext_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-web-ext_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-common-ext_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-ejb-jar-ext_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-common-ext-pme_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-web-bnd_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-application-bnd_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-application-bnd_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-ejb-jar-ext_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-ejb-jar-bnd_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-web-ext-pme_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-application-ext-pme_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-common-bnd_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-ejb-jar-bnd_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-application-ext_1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-common-ext_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/webSphereIntegration/lib/webSphereIntegration.jar!/descriptors/ibm-common-bnd_1_1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/http/spring-integration-http-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/http/spring-integration-http-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/http/spring-integration-http-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-2.5.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/sftp/spring-integration-sftp-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/sftp/spring-integration-sftp-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/sftp/spring-integration-sftp-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xmpp/spring-integration-xmpp-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xmpp/spring-integration-xmpp-2.1.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-2.0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xmpp/spring-integration-xmpp-2.2.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277815" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xsl" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277816" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277816" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/xslt-schema.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277816" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-1_0.xsd" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1366967277816" ignored="false" />
+    <file path="$PROJECT_DIR$/../../yijushequ/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367052504660" ignored="false" />
+    <file path="$PROJECT_DIR$/../Javapns/.idea/misc.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367050001451" ignored="false" />
+    <file path="$PROJECT_DIR$/../Javapns/.idea/workspace.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369659633051" ignored="false" />
+    <file path="$PROJECT_DIR$/../Javapns/src/Test.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369659545518" ignored="false" />
+    <file path="$PROJECT_DIR$/../../yijushequ/WebRoot.war/index.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367996682899" ignored="false" />
+    <file path="$PROJECT_DIR$/../../yijushequ/build.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367997732437" ignored="false" />
+    <file path="/build.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1368159582443" ignored="false" />
+    <file path="$PROJECT_DIR$/../../yijushequ/WebRoot.war/WEB-INF/config/applicationContext.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367997541965" ignored="false" />
+    <file path="$PROJECT_DIR$/../../yijushequ/WebRoot.war/WEB-INF/config/log4j.properties" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1368163744624" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/WebRoot.war/WEB-INF/config/xwork-conversion.properties" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1367997709662" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/WebRoot.war/WEB-INF/config/log4j.properties" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1368163530189" ignored="false" />
+    <file path="/includeForLayOut.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1368166706764" ignored="false" />
+    <file path="/PnsAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369370017840" ignored="false" />
+    <file path="/Test.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369569201340" ignored="false" />
+    <file path="$PROJECT_DIR$/../Javapns/.idea/encodings.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369574359991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/.idea/workspace.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369805434099" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gogowise/WebRoot.war/123.htm" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369805410776" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/utils/Constants.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992957" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/action/PnsAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992958" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/WebRoot.war/jsp/layout/header.jsp" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992958" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/action/BasicAction.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992958" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/WebRoot.war/js/global.js" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992958" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/build.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992958" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/config/LifecycleInit.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369964992959" ignored="false" />
+    <file path="/TestObject.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369981343615" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/test/ProducerConsumer.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369969544749" ignored="false" />
+    <file path="/ProducerConsumer.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369969528033" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/test/NotifyTest.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369974008277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../OpenJpa/src/com/aspentech/imos/model/CommodityGroup.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369981868910" ignored="false" />
+    <file path="$PROJECT_DIR$/../../OpenJpa/src/com/test/convert/JPAConverter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369981902743" ignored="false" />
+    <file path="$PROJECT_DIR$/../XMLApplication/src/com/test/convert/JPAConverter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982409246" ignored="false" />
+    <file path="$PROJECT_DIR$/../XMLApplication/src/com/test/convert/model/Mapping.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982377528" ignored="false" />
+    <file path="/Mapping.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982354587" ignored="false" />
+    <file path="/JPAConverter.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982404739" ignored="false" />
+    <file path="/MultiThreadedApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369991509442" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/student.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369982814877" ignored="false" />
+    <file path="/DomTest.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369984118709" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/test/ReverseStringApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369989570542" ignored="false" />
+    <file path="/ReverseStringApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369984768287" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/src/com/demo/test/XmlApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369990384354" ignored="false" />
+    <file path="/XmlApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370000148803" ignored="false" />
+    <file path="$PROJECT_DIR$/../Test/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369990389921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/Document.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/demo/test/MultiThreadedApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369995332092" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/build.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369995360468" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/demo/test/XmlApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369995332092" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/demo/test/ReverseStringApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1369995332092" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/pom.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/test/MultiThreadedApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/test/XmlApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/misc.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370004057365" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/src/com/test/ReverseStringApplication.java" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/modules.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370004008851" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/compiler.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370004008851" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/encodings.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/uiDesigner.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/workspace.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370004336176" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaDellTest/.idea/vcs.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1370003988463" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Test/.idea/workspace.xml" changelist="9625cf12-852e-4ec8-8f6d-f65a285938a9" time="1373342973800" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CommittedChangesCache">
+    <option name="initialCount" value="20000" />
+    <option name="refreshEnabled" value="true" />
+    <option name="refreshInterval" value="60" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/yijushequ$Tomcat_7.ic" NAME="Tomcat 7 Coverage Results" MODIFIED="1333116190531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/yijushequ$Tomcat_7.coverage" NAME="Tomcat 7 Coverage Results" MODIFIED="1351855588914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="D:\dev\WorkSpace\yijushequ" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="true" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/demo/action/BasicAction.java" line="84" class="com.demo.action.BasicAction" package="com.demo.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/demo/config/LifecycleInit.java" line="31" class="com.demo.config.LifecycleInit" package="com.demo.config">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/demo/action/PnsAction.java" line="20" class="com.demo.action.PnsAction" package="com.demo.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yijushequ" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PnsAction.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/action/PnsAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="53" selection-start="638" selection-end="641" vertical-scroll-proportion="0.30565166">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="42" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usermenu.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/usermenu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/layout.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layoutOfFont.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/layoutOfFont.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="30" selection-start="986" selection-end="987" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/action/BasicAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="47" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="yijushequ" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/demo/utils/ActionFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/action/BasicAction.java" />
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/WebRoot.war/WEB-INF/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/WebRoot.war/WEB-INF/config/log4j.properties" />
+        <option value="$PROJECT_DIR$/WebRoot.war/jsp/layout/header.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot.war/js/global.js" />
+        <option value="$PROJECT_DIR$/WebRoot.war/jsp/demo/product/create.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot.war/js/control.js" />
+        <option value="$PROJECT_DIR$/WebRoot.war/js/jquery-ui-1.9.1.custom.min.js" />
+        <option value="$PROJECT_DIR$/WebRoot.war/css/custom-theme/jquery-ui-1.9.1.custom.min.css" />
+        <option value="$PROJECT_DIR$/WebRoot.war/css/v1.css" />
+        <option value="$PROJECT_DIR$/WebRoot.war/css/custom-theme/jquery-ui-1.9.1.custom.css" />
+        <option value="$PROJECT_DIR$/WebRoot.war/jsp/layout/includeForLayOut.jsp" />
+        <option value="$PROJECT_DIR$/src/com/demo/action/PnsAction.java" />
+        <option value="$PROJECT_DIR$/WebRoot.war/jsp/demo/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="demo" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yijushequ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yijushequ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBaeMvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="240" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="235" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="45" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="232" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="273" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="270" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="267" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="499" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="271" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="262" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.9" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="223" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="867" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="RESOURCE_BUNDLE_SPLITTER_PROPORTION" value="0.5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="project.structure.side.proportion" value="0.20000002" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.action" />
+      <recent name="com.demo.utils" />
+      <recent name="com.yijushequ.action.vid" />
+      <recent name="com.yijushequ.schedule" />
+      <recent name="com.yijushequ.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\WorkSpace\zlhades\MyBaeMvc\WebRoot.war\WEB-INF\config" />
+      <recent name="D:\dev\WorkSpace\zlhades\MyBaeMvc\WebRoot.war\js" />
+      <recent name="D:\dev\WorkSpace\zlhades\MyBaeMvc\WebRoot.war\images" />
+      <recent name="D:\dev\WorkSpace\zlhades\demo\WebRoot.war" />
+      <recent name="D:\dev\WorkSpace\zlhades\demo\WebRoot.war\jsp\layout" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.demo.utils.Utils" />
+      <recent name="com.demo.utils.Constants" />
+      <recent name="com.yijushequ.utils.emailJob" />
+      <recent name="com.yijushequ.utils.Utils" />
+      <recent name="com.yijushequ.utils.Constants" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yijushequ.action.user" />
+      <recent name="com.yijushequ.action.org" />
+      <recent name="com.yijushequ.action.utils" />
+      <recent name="com.yijushequ.utils" />
+      <recent name="com.yijushequ.action" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\WorkSpace\zlhades\demo\WebRoot.war" />
+      <recent name="D:\dev\WorkSpace\yijushequ\WebRoot.war\WEB-INF" />
+      <recent name="D:\dev\WorkSpace\yijushequ\WebRoot.war\images" />
+      <recent name="D:\dev\WorkSpace\yijushequ\WebRoot.war\jsp\yijushequ" />
+      <recent name="D:\dev\WorkSpace\yijushequ\WebRoot.war\jsp\yijushequ\user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.T7">
+    <configuration default="false" name="CompetitionTest.testCoursert" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yijushequ.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yijushequ" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yijushequ.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.yijushequ.dao.CompetitionTest" />
+      <option name="METHOD_NAME" value="testCoursert" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RoleTest.save" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yijushequ.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yijushequ" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.yijushequ.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.yijushequ.dao.RoleTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SacnPackage" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.demo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.demo.utils.SacnPackage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LifecycleInit" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.demo.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.demo.config.LifecycleInit" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="FAIL" />
+            <option name="failureBehavior" value="FAST" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="jreName" value="1.7" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/" />
+      <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_yijushequ" />
+      </server-settings>
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57367" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="AntTarget" enabled="true" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="Tomcat 7 JavaScript" type="JavascriptDebugSession" factoryName="Remote">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="http://zlhades.vicp.net/index.html" />
+        <mapping url="http://zlhades.vicp.net/js/index.js" local-file="$PROJECT_DIR$/WebRoot.war/js/index.js" />
+        <mapping url="http://localhost:80" local-file="$PROJECT_DIR$/WebRoot.war" />
+        <mapping url="http://zlhades.vicp.net/js/qq-api/qc_loader.js" local-file="$PROJECT_DIR$/WebRoot.war/js/qq-api/qc_loader.js" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="T7 JavaScript" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="http://192.168.1.133/index.html" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="T7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://192.168.1.133/index.html" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/WebRoot.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_yijushequ" />
+      </server-settings>
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57367" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="AntTarget" enabled="true" antfile="file://$PROJECT_DIR$/build.xml" target="all" />
+      </method>
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Tomcat 7 JavaScript" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.T7 JavaScript" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.T7" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CompetitionTest.testCoursert" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RoleTest.save" />
+      <item index="5" class="java.lang.String" itemvalue="Query Language Console.Default" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SacnPackage" />
+      <item index="7" class="java.lang.String" itemvalue="Application.LifecycleInit" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.LifecycleInit" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SacnPackage" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="ALPHA_COMPARATOR,SHOW_INTERFACES,GROUP_BY_PREFIXES,SHOW_FIELDS" />
+  </component>
+  <component name="Struts Assistant">
+    <multiDoc>false</multiDoc>
+    <option name="showInputs" value="true" />
+    <option name="resources">
+      <value>
+        <option name="strutsPath" />
+        <option name="strutsHelp" />
+      </value>
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="true" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Benson\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c52600-7a0e-4288-a921-1c3560d99434" name="Default" comment="" />
+      <changelist id="9625cf12-852e-4ec8-8f6d-f65a285938a9" name="New changelist" comment="" />
+      <created>1324557534038</created>
+      <updated>1351839345990</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New changelist">
+      <created>1324558393632</created>
+      <updated>1324558393632</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert: alter dateformate&#10;">
+      <created>1324558393632</created>
+      <updated>1324558393632</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactor: move couse confirm to diff action.">
+      <created>1333199074101</created>
+      <updated>1333199074101</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactor: move couse confirm to diff action. left files">
+      <created>1333203810100</created>
+      <updated>1333203810100</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Refactor: removed unused method.">
+      <created>1333204658100</created>
+      <updated>1333204658100</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Refactor: fix if time zone is null.">
+      <created>1333204677100</created>
+      <updated>1333204677100</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refactor: remove unused filed in baseuser.">
+      <created>1333333036101</created>
+      <updated>1333333036101</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refactor: remove unused class group.">
+      <created>1333334094100</created>
+      <updated>1333334094100</updated>
+    </task>
+    <task id="LOCAL-00015" summary="refactor: remove commented code.">
+      <created>1333334134100</created>
+      <updated>1333334134100</updated>
+    </task>
+    <task id="LOCAL-00016" summary="refactor: fix time zone issue.">
+      <created>1333369444129</created>
+      <updated>1333369444129</updated>
+    </task>
+    <task id="LOCAL-00017" summary="refactor: fix time zone issue, incorrect aftertomoorm.">
+      <created>1333369496101</created>
+      <updated>1333369496101</updated>
+    </task>
+    <task id="LOCAL-00018" summary="refactor:  move zhibi from use to UserAccountInfo.">
+      <created>1333373414100</created>
+      <updated>1333373414100</updated>
+    </task>
+    <task id="LOCAL-00019" summary="REMOVED unused test method.">
+      <created>1333451931129</created>
+      <updated>1333451931129</updated>
+    </task>
+    <task id="LOCAL-00020" summary="refactor:  delete unused jsp&#10;">
+      <created>1333452855125</created>
+      <updated>1333452855125</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Refactor: remove unused method.">
+      <created>1333455514104</created>
+      <updated>1333455514104</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Refactor: remove unused file.">
+      <created>1333455861106</created>
+      <updated>1333455861106</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Refactor: upgrad to 4.0">
+      <created>1333460119104</created>
+      <updated>1333460119104</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix my first page not sort and time zone incorrect issue.">
+      <created>1333521016129</created>
+      <updated>1333521016129</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Refactor unused action.">
+      <created>1333524627103</created>
+      <updated>1333524627103</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fix null point issue.">
+      <created>1333527532102</created>
+      <updated>1333527532102</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Revert: revert remove index html change, still need this htm for dev env.">
+      <created>1333529939103</created>
+      <updated>1333529939103</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fix error pic not exist issue.">
+      <created>1333799331260</created>
+      <updated>1333799331260</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add qucik create org.">
+      <created>1333855881129</created>
+      <updated>1333855881129</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add qucik create org.and refactor old code.">
+      <created>1333868323103</created>
+      <updated>1333868323103</updated>
+    </task>
+    <task id="LOCAL-00032" summary="remove unused action">
+      <created>1333869596103</created>
+      <updated>1333869596103</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add admin validation for hig sec">
+      <created>1333878622103</created>
+      <updated>1333878622103</updated>
+    </task>
+    <task id="LOCAL-00034" summary="remove upload contract related action.">
+      <created>1333894239103</created>
+      <updated>1333894239103</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix cannot open higsec logon bug for hisec org create.">
+      <created>1333980329160</created>
+      <updated>1333980329160</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Fix bug, use client's today to cal for today's course.">
+      <created>1334070980102</created>
+      <updated>1334070980102</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix bug: fix search input issue.">
+      <created>1334147380147</created>
+      <updated>1334147380147</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add security, need login as admin firstly.">
+      <created>1334151607103</created>
+      <updated>1334151607103</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix cannot purchase issue.">
+      <created>1334155471102</created>
+      <updated>1334155471102</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Send out email after confirm the org information.">
+      <created>1334155852103</created>
+      <updated>1334155852103</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Direct to myfirst page after apply org">
+      <created>1334157197104</created>
+      <updated>1334157197104</updated>
+    </task>
+    <task id="LOCAL-00042" summary="When user did not logon the systesm. and click book coures, need redirect to easy logon page.">
+      <created>1334243181105</created>
+      <updated>1334243181105</updated>
+    </task>
+    <task id="LOCAL-00043" summary="remove incorrect code">
+      <created>1334320775132</created>
+      <updated>1334320775132</updated>
+    </task>
+    <task id="LOCAL-00044" summary="remove unused code">
+      <created>1334321042103</created>
+      <updated>1334321042103</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add complex check when reg.">
+      <created>1334321372104</created>
+      <updated>1334321372104</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Can update user bank related information.">
+      <created>1334322519103</created>
+      <updated>1334322519103</updated>
+    </task>
+    <task id="LOCAL-00047" summary="delet unused properties file">
+      <created>1334394522114</created>
+      <updated>1334394522114</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix reg issue: null bank for email and nick name, none duplicate for nick name">
+      <created>1334395606103</created>
+      <updated>1334395606103</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Only can active once for user.">
+      <created>1334396625143</created>
+      <updated>1334396625143</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Fix nick name cannot duplicate.">
+      <created>1334398492103</created>
+      <updated>1334398492103</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Fix nick name cannot duplicate.">
+      <created>1334399756103</created>
+      <updated>1334399756103</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fix easylogon cannot show error message correctly">
+      <created>1334403826102</created>
+      <updated>1334403826102</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix easylong issue when account not exist.">
+      <created>1334404205103</created>
+      <updated>1334404205103</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix after add sec check, the fw is incorrct issue.">
+      <created>1334405924103</created>
+      <updated>1334405924103</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add link for course blog">
+      <created>1334411245103</created>
+      <updated>1334411245103</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Comment incorrect js">
+      <created>1334413495103</created>
+      <updated>1334413495103</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add logon validation for course jsp">
+      <created>1334414752103</created>
+      <updated>1334414752103</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add logon validation for course jsp">
+      <created>1334414897104</created>
+      <updated>1334414897104</updated>
+    </task>
+    <task id="LOCAL-00059" summary="add logon validation for course jsp">
+      <created>1334415159102</created>
+      <updated>1334415159102</updated>
+    </task>
+    <task id="LOCAL-00060" summary="remvoe hellow message in js">
+      <created>1334415708102</created>
+      <updated>1334415708102</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fix cannot go to index.html issue.">
+      <created>1334454338117</created>
+      <updated>1334454338117</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Move user related to user folder.">
+      <created>1334480579102</created>
+      <updated>1334480579102</updated>
+    </task>
+    <task id="LOCAL-00063" summary="add redirect function for reg.">
+      <created>1334496913103</created>
+      <updated>1334496913103</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Can redirect to reg with email and redirecturl">
+      <created>1334497708103</created>
+      <updated>1334497708103</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Can you org reg and logon to do indentification">
+      <created>1334498202102</created>
+      <updated>1334498202102</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Can you org reg and logon to do indentification">
+      <created>1334498782104</created>
+      <updated>1334498782104</updated>
+    </task>
+    <task id="LOCAL-00067" summary="remove org course creation indentification.">
+      <created>1334499310103</created>
+      <updated>1334499310103</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Change indenfication process.">
+      <created>1334499643102</created>
+      <updated>1334499643102</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Add more validation for course evaluation">
+      <created>1334675807115</created>
+      <updated>1334675807115</updated>
+    </task>
+    <task id="LOCAL-00071" summary="if use org resp logon, redirect to org center.">
+      <created>1334839905192</created>
+      <updated>1334839905192</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Change error meesage to cannot apply org.">
+      <created>1334840762127</created>
+      <updated>1334840762127</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Add parmater for logon redirect.">
+      <created>1335013798149</created>
+      <updated>1335013798149</updated>
+    </task>
+    <task id="LOCAL-00074" summary="org role type for org teacher.">
+      <created>1335100049162</created>
+      <updated>1335100049162</updated>
+    </task>
+    <task id="LOCAL-00075" summary="add org auth type">
+      <created>1335103016111</created>
+      <updated>1335103016111</updated>
+    </task>
+    <task id="LOCAL-00076" summary="only can add one auth at one time.">
+      <created>1335193644114</created>
+      <updated>1335193644115</updated>
+    </task>
+    <task id="LOCAL-00077" summary="add url encoding for logon">
+      <created>1335311346122</created>
+      <updated>1335311346122</updated>
+    </task>
+    <task id="LOCAL-00078" summary="do refactor, use stringutils.">
+      <created>1336056378152</created>
+      <updated>1336056378152</updated>
+    </task>
+    <task id="LOCAL-00079" summary="add validation for org auth.">
+      <created>1336057565102</created>
+      <updated>1336057565102</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Change org role type to boolean.">
+      <created>1336316818164</created>
+      <updated>1336316818164</updated>
+    </task>
+    <task id="LOCAL-00081" summary="add to do for hailin">
+      <created>1336437389126</created>
+      <updated>1336437389126</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Change org reg to simple one.">
+      <created>1336437429103</created>
+      <updated>1336437429103</updated>
+    </task>
+    <task id="LOCAL-00083" summary="add alipay. Frist draft.">
+      <created>1336660379114</created>
+      <updated>1336660379114</updated>
+    </task>
+    <task id="LOCAL-00084" summary="temp fix for IE issue.">
+      <created>1337172360134</created>
+      <updated>1337172360134</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Change org create by admin.">
+      <created>1337268740122</created>
+      <updated>1337268740122</updated>
+    </task>
+    <task id="LOCAL-00086" summary="rename">
+      <created>1337268934429</created>
+      <updated>1337268934430</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add add button.">
+      <created>1337402920168</created>
+      <updated>1337402920169</updated>
+    </task>
+    <task id="LOCAL-00088" summary="fix exception bug in course blog">
+      <created>1337439707126</created>
+      <updated>1337439707126</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Add send email function.  Org can send email now.">
+      <created>1337506236115</created>
+      <updated>1337506236115</updated>
+    </task>
+    <task id="LOCAL-00090" summary="ad more link for user used.">
+      <created>1337508386102</created>
+      <updated>1337508386102</updated>
+    </task>
+    <task id="LOCAL-00091" summary="chagne email tiltle">
+      <created>1337508505102</created>
+      <updated>1337508505102</updated>
+    </task>
+    <task id="LOCAL-00092" summary="add email for org backend">
+      <created>1337514660102</created>
+      <updated>1337514660102</updated>
+    </task>
+    <task id="LOCAL-00093" summary="cell phone is not required">
+      <created>1337518950102</created>
+      <updated>1337518950102</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Chang page  to 9">
+      <created>1337524444103</created>
+      <updated>1337524444104</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Show the right class num and attence num.">
+      <created>1337524575106</created>
+      <updated>1337524575106</updated>
+    </task>
+    <task id="LOCAL-00096" summary="add ajax load for member.">
+      <created>1337610961141</created>
+      <updated>1337610961141</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Chang page number to 1 for mistake.">
+      <created>1337611377102</created>
+      <updated>1337611377102</updated>
+    </task>
+    <task id="LOCAL-00098" summary="add order by.">
+      <created>1337612737105</created>
+      <updated>1337612737105</updated>
+    </task>
+    <task id="LOCAL-00099" summary="add on error.">
+      <created>1337613003102</created>
+      <updated>1337613003102</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Add schedule job for testing.">
+      <created>1337871437121</created>
+      <updated>1337871437121</updated>
+    </task>
+    <task id="LOCAL-00101" summary="disable sql for default.">
+      <created>1338098640134</created>
+      <updated>1338098640134</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Delete incorrect comments.">
+      <created>1338098923103</created>
+      <updated>1338098923103</updated>
+    </task>
+    <task id="LOCAL-00103" summary="add course reminder">
+      <created>1338100979102</created>
+      <updated>1338100979102</updated>
+    </task>
+    <task id="LOCAL-00104" summary="redurce complex check for reg.">
+      <created>1338121462102</created>
+      <updated>1338121462102</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Fix time zone issue in myfirst page.">
+      <created>1338121500103</created>
+      <updated>1338121500103</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Fix bug , add default email for login.">
+      <created>1338122372102</created>
+      <updated>1338122372102</updated>
+    </task>
+    <task id="LOCAL-00107" summary="add coures name to email">
+      <created>1338304525105</created>
+      <updated>1338304525105</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Add blank for email">
+      <created>1338383287152</created>
+      <updated>1338383287152</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Fix maintenance course did not display.">
+      <created>1338388114103</created>
+      <updated>1338388114103</updated>
+    </task>
+    <task id="LOCAL-00110" summary="User thread pool to send email, reduce out of memory issue.">
+      <created>1338687900144</created>
+      <updated>1338687900144</updated>
+    </task>
+    <task id="LOCAL-00111" summary="remove chinese word.">
+      <created>1338687965102</created>
+      <updated>1338687965102</updated>
+    </task>
+    <task id="LOCAL-00112" summary="fix pic not exist issue.">
+      <created>1339075617118</created>
+      <updated>1339075617118</updated>
+    </task>
+    <task id="LOCAL-00113" summary="User connection pool">
+      <created>1339209553146</created>
+      <updated>1339209553146</updated>
+    </task>
+    <task id="LOCAL-00114" summary="add adjust for send email time.">
+      <created>1339210008102</created>
+      <updated>1339210008102</updated>
+    </task>
+    <task id="LOCAL-00115" summary="User myfirst page as notice link.">
+      <created>1339210514102</created>
+      <updated>1339210514102</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Remove older zhibi code.">
+      <created>1339419962131</created>
+      <updated>1339419962131</updated>
+    </task>
+    <task id="LOCAL-00117" summary="add baidu analysis.">
+      <created>1339502826170</created>
+      <updated>1339502826171</updated>
+    </task>
+    <task id="LOCAL-00118" summary="remove baidu related.">
+      <created>1339507386102</created>
+      <updated>1339507386102</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Chagne backup file">
+      <created>1347449777135</created>
+      <updated>1347449777135</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Add rollback filter.">
+      <created>1347450810104</created>
+      <updated>1347450810104</updated>
+    </task>
+    <task id="LOCAL-00121" summary="ADD zhibi function. use can purchase courese.">
+      <created>1347450920103</created>
+      <updated>1347450920104</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Add default date">
+      <created>1347681013108</created>
+      <updated>1347681013108</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Init">
+      <created>1351608295104</created>
+      <updated>1351608295104</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Init">
+      <created>1351608599104</created>
+      <updated>1351608599104</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Init">
+      <created>1351835590103</created>
+      <updated>1351835590104</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Init">
+      <created>1351835806104</created>
+      <updated>1351835806104</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Init">
+      <created>1351835992103</created>
+      <updated>1351835992103</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Init">
+      <created>1351836009103</created>
+      <updated>1351836009103</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Init">
+      <created>1351836029103</created>
+      <updated>1351836029103</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Failed commit: alipay (2)">
+      <created>1351837380602</created>
+      <updated>1351837380602</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Failed commit: alipay (3)">
+      <created>1351839284389</created>
+      <updated>1351839284389</updated>
+    </task>
+    <task id="LOCAL-00132" summary="init">
+      <created>1351839394110</created>
+      <updated>1351839394110</updated>
+    </task>
+    <task id="LOCAL-00133" summary="add map">
+      <created>1353416021105</created>
+      <updated>1353416021105</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add map">
+      <created>1353637534159</created>
+      <updated>1353637534160</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add validation fro map">
+      <created>1353658592109</created>
+      <updated>1353658592109</updated>
+    </task>
+    <task id="LOCAL-00136" summary="add validate for create product">
+      <created>1354344242148</created>
+      <updated>1354344242148</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Change to idea 12">
+      <created>1355824857103</created>
+      <updated>1355824857104</updated>
+    </task>
+    <task id="LOCAL-00138" summary="remove&#10;">
+      <created>1359107532172</created>
+      <updated>1359107532172</updated>
+    </task>
+    <task id="LOCAL-00139" summary="change DB password">
+      <created>1359108225109</created>
+      <updated>1359108225109</updated>
+    </task>
+    <task id="LOCAL-00140" summary="fix login issue.">
+      <created>1359117359110</created>
+      <updated>1359117359110</updated>
+    </task>
+    <task id="LOCAL-00141" summary="remove deubg modue">
+      <created>1359168685166</created>
+      <updated>1359168685166</updated>
+    </task>
+    <task id="LOCAL-00142" summary="add text editor">
+      <created>1359791720112</created>
+      <updated>1359791720112</updated>
+    </task>
+    <task id="LOCAL-00143" summary="t">
+      <created>1363576083109</created>
+      <updated>1363576083109</updated>
+    </task>
+    <task id="LOCAL-00144" summary="D">
+      <created>1364045833112</created>
+      <updated>1364045833112</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Add vid">
+      <created>1364048236313</created>
+      <updated>1364048236313</updated>
+    </task>
+    <task id="LOCAL-00146" summary="init">
+      <created>1366292581954</created>
+      <updated>1366292581955</updated>
+    </task>
+    <task id="LOCAL-00147" summary="init">
+      <created>1366292612601</created>
+      <updated>1366292612601</updated>
+    </task>
+    <task id="LOCAL-00148" summary="a">
+      <created>1366295168329</created>
+      <updated>1366295168329</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Done">
+      <created>1366525072255</created>
+      <updated>1366525072256</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Done">
+      <created>1366525197415</created>
+      <updated>1366525197415</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Done">
+      <created>1366525852294</created>
+      <updated>1366525852294</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Done">
+      <created>1366526101520</created>
+      <updated>1366526101520</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18080357" sideWeight="0.5134698" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.6666667" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3080425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15409483" sideWeight="0.49200913" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5072142" sideWeight="0.8873922" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42351598" sideWeight="0.11260776" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17933619" sideWeight="0.2195946" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21931697" sideWeight="0.74384785" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3413242" sideWeight="0.4871795" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2446352" sideWeight="0.29617116" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23287672" sideWeight="0.49353448" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21875" sideWeight="0.543379" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17450683" sideWeight="0.4790997" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14655173" sideWeight="0.49429223" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32762557" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2705443" sideWeight="0.49200913" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5209003" sideWeight="0.58997846" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31477517" sideWeight="0.2195946" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20819849" sideWeight="0.66552514" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990867" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16079059" sideWeight="0.20246086" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.8277405" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.65995526" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41800642" sideWeight="0.66810346" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hibernate Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37274775" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38626125" sideWeight="0.58476394" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3635347" sideWeight="0.4698276" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4144144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.7729592" />
+    <MESSAGE value="add adjust for send email time." />
+    <MESSAGE value="User myfirst page as notice link." />
+    <MESSAGE value="Remove older zhibi code." />
+    <MESSAGE value="add baidu analysis." />
+    <MESSAGE value="remove baidu related." />
+    <MESSAGE value="Chagne backup file" />
+    <MESSAGE value="Add rollback filter." />
+    <MESSAGE value="ADD zhibi function. use can purchase courese." />
+    <MESSAGE value="Add default date" />
+    <MESSAGE value="Init" />
+    <MESSAGE value="add map" />
+    <MESSAGE value="add validation fro map" />
+    <MESSAGE value="add validate for create product" />
+    <MESSAGE value="Change to idea 12" />
+    <MESSAGE value="remove&#10;" />
+    <MESSAGE value="change DB password" />
+    <MESSAGE value="fix login issue." />
+    <MESSAGE value="remove deubg modue" />
+    <MESSAGE value="add text editor" />
+    <MESSAGE value="t" />
+    <MESSAGE value="D" />
+    <MESSAGE value="Add vid" />
+    <MESSAGE value="init" />
+    <MESSAGE value="a" />
+    <MESSAGE value="Done" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebRoot.war/jsp/layout/header.jsp</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/qq-api/qc_loader.js</url>
+          <line>8</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/qq-api/qc_loader.js</url>
+          <line>19</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebRoot.war/js/qq-api/qc_loader.js</url>
+          <line>27</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/qq-api/qc-1.0.1.js</url>
+          <line>1104</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/qq-api/qc-1.0.1.js</url>
+          <line>936</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/qq-api/qc-1.0.1.js</url>
+          <line>924</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebRoot.war/js/global.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/js/map.js</url>
+          <line>58</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>http://zlhades.vicp.net/index.html</url>
+          <line>306</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="yijushequ" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="yijushequ" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="copyAllFilesAndDeploy" isVisible="false" />
+        <filter targetName="copyAllFiles" isVisible="false" />
+        <filter targetName="svnUpdate" isVisible="false" />
+        <filter targetName="native" isVisible="false" />
+        <filter targetName="copyConfigeuration" isVisible="false" />
+        <filter targetName="copyJsp" isVisible="false" />
+        <filter targetName="beforeBuild" isVisible="false" />
+        <filter targetName="all" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/css/custom-theme/jquery-ui-1.9.1.custom.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="236195" selection-start="236195" selection-end="236195" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/css/custom-theme/jquery-ui-1.9.1.custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="358" column="276" selection-start="26460" selection-end="26460" vertical-scroll-proportion="1.2852852" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/utils/ActionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/action/product/ProductAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/includeForLayOut.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="80" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/demo/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="20" selection-start="3078" selection-end="3376" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log4j.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/js/jquery-ui-1.9.1.custom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="236148" selection-start="236148" selection-end="236148" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/css/v1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="84" selection-start="24749" selection-end="24749" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/WEB-INF/config/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="113" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="42" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/usermenu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/layout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot.war/jsp/layout/layoutOfFont.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="30" selection-start="986" selection-end="987" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/action/BasicAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="47" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/action/PnsAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="53" selection-start="638" selection-end="641" vertical-scroll-proportion="0.30565166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>yijushequ:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

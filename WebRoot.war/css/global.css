@@ -1,0 +1,89 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+    background: url(../images/demo-squre-bg2.png)  repeat scroll left top transparent;
+    height: 100%;
+}
+div.tabwidth {
+    width: 100%;
+}
+
+html {
+    font: 12px/1 Arial, Helvetica, "\5b8b\4f53", "\5FAE\8F6F\96C5\9ED1", sans-serif;
+    height: 100%;
+}
+
+a,input{
+    font-family: Arial, Helvetica, "\5FAE\8F6F\96C5\9ED1","\5b8b\4f53", sans-serif;
+}
+a:link,a:hover,a:active,a:visited {
+    /*color: #000000;*/
+    text-decoration: none;
+}
+.a_focus{
+    display: block;
+    padding: 3px 12px; background: #EBEBEB;
+    color: #f60;
+    border: 1px solid #ABABAB;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.a_focus:hover{
+    background: #dadada;
+}
+
+em {
+    font: 14pt normal CourierNew;
+}
+
+/*a, td, p {*/
+    /*font-size: 9pt*/
+/*}*/
+
+/*  对Struts2 错误域设置的CSS  */
+.wwgrp{
+    display: inline;
+}
+.wwgrp br {
+    display: none;
+}
+.wwerr{
+    display: inline;
+}
+.wwerr .errorMessage {
+    display: inline;
+    color: red;
+    font-size: 12px
+}
+.wwctrl{
+    display: inline;
+}
+.wwlbl {
+    display: inline;
+}
+/*  对Struts2 错误域设置的CSS----end  */
+
+
+.fl{
+    float: left;
+    display: inline;
+}
+.fr{
+    float: right;
+    display: inline;
+}
+img{ behavior: url("js/iepngfix/iepngfix.htc"); }
+.tip_words{
+    color:#ff4500;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.orange_words{
+    color: #f90;
+}
+
+label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
+

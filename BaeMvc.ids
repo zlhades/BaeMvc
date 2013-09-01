@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="H2" version="1.3.171 (2013-03-17)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.3.171 (2013-03-17)" uuid="fedad992-73f2-4cb2-83a1-351131aa85f5">
+    <identifier-quote-string>&quot;</identifier-quote-string>
+    <synchronize>true</synchronize>
+    <jdbc-driver>org.h2.Driver</jdbc-driver>
+    <jdbc-url>jdbc:h2:~/yijushequ</jdbc-url>
+    <user-name>sa</user-name>
+    <libraries>
+      <library>
+        <url>jar://$MAVEN_REPOSITORY$/com/h2database/h2/1.3.171/h2-1.3.171.jar!/</url>
+      </library>
+    </libraries>
+    <schema name="INFORMATION_SCHEMA" catalog="YIJUSHEQU"/>
+    <schema name="PUBLIC" catalog="YIJUSHEQU"/>
+    <table name="CATALOGS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="CATALOG_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="COLLATIONS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="KEY" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="COLUMNS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ORDINAL_POSITION" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="COLUMN_DEFAULT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_NULLABLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CHARACTER_MAXIMUM_LENGTH" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CHARACTER_OCTET_LENGTH" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="NUMERIC_PRECISION" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="NUMERIC_PRECISION_RADIX" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="NUMERIC_SCALE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CHARACTER_SET_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLLATION_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="NULLABLE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="IS_COMPUTED" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="SELECTIVITY" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CHECK_CONSTRAINT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SEQUENCE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SOURCE_DATA_TYPE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+    </table>
+    <table name="COLUMN_PRIVILEGES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="GRANTOR" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="GRANTEE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PRIVILEGE_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_GRANTABLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="CONSTANTS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="CONSTANT_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CONSTANT_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CONSTANT_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="CONSTRAINTS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="CONSTRAINT_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CONSTRAINT_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CONSTRAINT_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CONSTRAINT_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="UNIQUE_INDEX_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CHECK_EXPRESSION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_LIST" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="CROSS_REFERENCES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="PKTABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PKTABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PKTABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PKCOLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="FKTABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="FKTABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="FKTABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="FKCOLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ORDINAL_POSITION" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="UPDATE_RULE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="DELETE_RULE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="FK_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PK_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DEFERRABILITY" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+    </table>
+    <table name="DOMAINS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="DOMAIN_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DOMAIN_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DOMAIN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_DEFAULT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_NULLABLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="PRECISION" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="SCALE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SELECTIVITY" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CHECK_CONSTRAINT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="FUNCTION_ALIASES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="ALIAS_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ALIAS_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ALIAS_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="JAVA_CLASS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="JAVA_METHOD" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_COUNT" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="RETURNS_RESULT" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="SOURCE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="FUNCTION_COLUMNS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="ALIAS_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ALIAS_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ALIAS_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="JAVA_CLASS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="JAVA_METHOD" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_COUNT" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="POS" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="COLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PRECISION" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="SCALE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="RADIX" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="NULLABLE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="COLUMN_TYPE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="COLUMN_DEFAULT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="HELP" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="SECTION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TOPIC" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SYNTAX" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TEXT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="INDEXES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="NON_UNIQUE" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="INDEX_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ORDINAL_POSITION" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="COLUMN_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CARDINALITY" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="PRIMARY_KEY" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="INDEX_TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_GENERATED" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="INDEX_TYPE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="ASC_OR_DESC" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PAGES" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="FILTER_CONDITION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="SORT_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CONSTRAINT_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="INDEX_CLASS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="IN_DOUBT" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TRANSACTION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="STATE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="LOCKS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SESSION_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="LOCK_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="RIGHTS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="GRANTEE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="GRANTEETYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="GRANTEDROLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="RIGHTS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="ROLES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="SCHEMATA" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="CATALOG_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SCHEMA_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SCHEMA_OWNER" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DEFAULT_CHARACTER_SET_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DEFAULT_COLLATION_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_DEFAULT" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="SEQUENCES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="SEQUENCE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SEQUENCE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SEQUENCE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CURRENT_VALUE" sqlType="BIGINT" length="19" precision="0" nullable="true" jdbcType="-5"/>
+      <column name="INCREMENT" sqlType="BIGINT" length="19" precision="0" nullable="true" jdbcType="-5"/>
+      <column name="IS_GENERATED" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CACHE" sqlType="BIGINT" length="19" precision="0" nullable="true" jdbcType="-5"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="SESSIONS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="USER_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SESSION_START" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="STATEMENT" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="STATEMENT_START" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="SESSION_STATE" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="KEY" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="SETTINGS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="VALUE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="TABLES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="STORAGE_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="LAST_MODIFICATION" sqlType="BIGINT" length="19" precision="0" nullable="true" jdbcType="-5"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_CLASS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="TABLE_PRIVILEGES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="GRANTOR" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="GRANTEE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PRIVILEGE_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_GRANTABLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="TABLE_TYPES" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="TRIGGERS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TRIGGER_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TRIGGER_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TRIGGER_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TRIGGER_TYPE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="BEFORE" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="JAVA_CLASS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="QUEUE_SIZE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="NO_WAIT" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SQL" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="TYPE_INFO" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TYPE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="DATA_TYPE" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="PRECISION" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="PREFIX" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="SUFFIX" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PARAMS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="AUTO_INCREMENT" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="MINIMUM_SCALE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="MAXIMUM_SCALE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="RADIX" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="POS" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="CASE_SENSITIVE" sqlType="BOOLEAN" length="1" precision="0" nullable="true" jdbcType="16"/>
+      <column name="NULLABLE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+      <column name="SEARCHABLE" sqlType="SMALLINT" length="5" precision="0" nullable="true" jdbcType="5"/>
+    </table>
+    <table name="USERS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ADMIN" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="VIEWS" schema="INFORMATION_SCHEMA" catalog="YIJUSHEQU" type="SYSTEM TABLE">
+      <column name="TABLE_CATALOG" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_SCHEMA" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TABLE_NAME" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="VIEW_DEFINITION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="CHECK_OPTION" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="IS_UPDATABLE" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="STATUS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REMARKS" sqlType="VARCHAR" length="2147483647" precision="0" nullable="true" jdbcType="12"/>
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+    </table>
+    <table name="BASEUSER" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfODdCN0RGMDhfRkE5MF80QzNDX0FDQ0JfNjM5MEJGOUJGNzdGKQ==" autoIncrement="true"/>
+      <column name="CREATEDATE" sqlType="TIMESTAMP" length="23" precision="10" nullable="true" jdbcType="93"/>
+      <column name="FIGUREURL" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="NICKNAME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="OPENID" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="REGTIME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <primary-key name="CONSTRAINT_C" columns="ID"/>
+      <exported-key name="FK73928D50263373A2" table="COMMUNITYUSERRELATION" schema="PUBLIC" catalog="YIJUSHEQU" columns="BASEUSER_ID"/>
+      <exported-key name="FKE24198546C2547AB" table="PLACEMARK" schema="PUBLIC" catalog="YIJUSHEQU" columns="OWNER_ID"/>
+      <exported-key name="FK536452005B3A9B92" table="PRODUCTDETAIL" schema="PUBLIC" catalog="YIJUSHEQU" columns="CREATOR_ID"/>
+    </table>
+    <table name="COMMUNITY" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfMUU1RTQwNzZfN0JFOV80QTU1XzhEMkNfNUIzOEUxMEYxRTMxKQ==" autoIncrement="true"/>
+      <column name="NAME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <primary-key name="CONSTRAINT_4" columns="ID"/>
+      <exported-key name="FK73928D50C7EC52D2" table="COMMUNITYUSERRELATION" schema="PUBLIC" catalog="YIJUSHEQU" columns="COMMUNITY_ID"/>
+    </table>
+    <table name="COMMUNITYUSERRELATION" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfNTg2NENCNTRfMDc4Nl80Q0EyXzlCMDlfRkM0MTdEM0U5QkZFKQ==" autoIncrement="true"/>
+      <column name="BASEUSER_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="COMMUNITY_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <primary-key name="CONSTRAINT_2" columns="ID"/>
+      <foreign-key name="FK73928D50263373A2" columns="BASEUSER_ID" ref-table="BASEUSER" ref-schema="PUBLIC" ref-catalog="YIJUSHEQU" ref-columns="ID" update-rule="1" delete-rule="1" deferrability="2"/>
+      <foreign-key name="FK73928D50C7EC52D2" columns="COMMUNITY_ID" ref-table="COMMUNITY" ref-schema="PUBLIC" ref-catalog="YIJUSHEQU" ref-columns="ID" update-rule="1" delete-rule="1" deferrability="2"/>
+      <index name="FK73928D50263373A2_INDEX_2" unique="false" columns="BASEUSER_ID"/>
+      <index name="FK73928D50C7EC52D2_INDEX_2" unique="false" columns="COMMUNITY_ID"/>
+    </table>
+    <table name="PLACEMARK" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfQ0Y3Q0I1MEVfMDFGQl80N0JFXzhCNjBfQzFDQUM4NTIxOTY5KQ==" autoIncrement="true"/>
+      <column name="CREATETIME" sqlType="TIMESTAMP" length="23" precision="10" nullable="true" jdbcType="93"/>
+      <column name="DESCRIPTION" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="LAT" sqlType="DOUBLE" length="17" precision="0" nullable="true" jdbcType="8"/>
+      <column name="LNG" sqlType="DOUBLE" length="17" precision="0" nullable="true" jdbcType="8"/>
+      <column name="NAME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="OWNER_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <primary-key name="CONSTRAINT_1" columns="ID"/>
+      <foreign-key name="FKE24198546C2547AB" columns="OWNER_ID" ref-table="BASEUSER" ref-schema="PUBLIC" ref-catalog="YIJUSHEQU" ref-columns="ID" update-rule="1" delete-rule="1" deferrability="2"/>
+      <index name="FKE24198546C2547AB_INDEX_1" unique="false" columns="OWNER_ID"/>
+    </table>
+    <table name="PRODUCT" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfNkJDNjk0NzFfMEVDRV80MEUyXzlDM0ZfRERGMjlDNENERDE1KQ==" autoIncrement="true"/>
+      <column name="NAME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <primary-key name="CONSTRAINT_18" columns="ID"/>
+      <exported-key name="FK536452002817FB12" table="PRODUCTDETAIL" schema="PUBLIC" catalog="YIJUSHEQU" columns="PRODUCT_ID"/>
+    </table>
+    <table name="PRODUCTDETAIL" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfQUMzOUI2RkZfQjM2Nl80Njg4X0I3NUFfQTkzMjE3REI1MjZDKQ==" autoIncrement="true"/>
+      <column name="CREATEDATE" sqlType="TIMESTAMP" length="23" precision="10" nullable="true" jdbcType="93"/>
+      <column name="DESCRIPTION" sqlType="CLOB" length="2147483647" precision="0" nullable="true" jdbcType="2005"/>
+      <column name="PLACE" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="PRICE" sqlType="DOUBLE" length="17" precision="0" nullable="false" jdbcType="8"/>
+      <column name="CREATOR_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <column name="PRODUCT_ID" sqlType="INTEGER" length="10" precision="0" nullable="true" jdbcType="4"/>
+      <primary-key name="CONSTRAINT_14" columns="ID"/>
+      <foreign-key name="FK536452005B3A9B92" columns="CREATOR_ID" ref-table="BASEUSER" ref-schema="PUBLIC" ref-catalog="YIJUSHEQU" ref-columns="ID" update-rule="1" delete-rule="1" deferrability="2"/>
+      <foreign-key name="FK536452002817FB12" columns="PRODUCT_ID" ref-table="PRODUCT" ref-schema="PUBLIC" ref-catalog="YIJUSHEQU" ref-columns="ID" update-rule="1" delete-rule="1" deferrability="2"/>
+      <index name="FK536452002817FB12_INDEX_1" unique="false" columns="PRODUCT_ID"/>
+      <index name="FK536452005B3A9B92_INDEX_1" unique="false" columns="CREATOR_ID"/>
+    </table>
+    <table name="VID" schema="PUBLIC" catalog="YIJUSHEQU" type="TABLE">
+      <column name="ID" sqlType="INTEGER" length="10" precision="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfNjNGQUZCRUZfRjJDRV80N0QwXzg1QUJfQzIzNDVCNjM4RTc4KQ==" autoIncrement="true"/>
+      <column name="NAME" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TITLE" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <column name="TYPE" sqlType="VARCHAR" length="255" precision="0" nullable="true" jdbcType="12"/>
+      <primary-key name="CONSTRAINT_14B" columns="ID"/>
+    </table>
+  </data-source>
+</component>
