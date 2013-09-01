@@ -7,13 +7,7 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Benson
- * Date: 13-4-18
- * Time: 上午11:32
- * To change this template use File | Settings | File Templates.
- */
+
 public class ActionConfig {
     private String fullName;
     private Class clazz;
